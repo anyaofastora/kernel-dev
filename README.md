@@ -2,6 +2,9 @@
 
 GitHub Repo for CUDA Course on FreeCodeCamp
 
+For cloning this personal copy and running an example on an RTX 4090 Linux server,
+see [Server setup](SERVER_SETUP.md).
+
 > Note: This course is designed for Ubuntu Linux. Windows users can use Windows Subsystem for Linux or Docker containers to simulate the ubuntu Linux environment.
 
 ## Table of Contents

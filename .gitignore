@@ -1,1 +1,12 @@
 09_PyTorch_Extensions/build
+
+# Local build output and Python caches
+/build/
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local credentials and environment settings
+.env
+.env.*
+!.env.example
