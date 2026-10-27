@@ -6,16 +6,15 @@ The original course is at https://github.com/Infatoshi/cuda-course.
 
 ## Clone on the server
 
-These commands assume Ubuntu/Linux and GitHub SSH access configured for your account
-(the repository is private).
+These commands assume Ubuntu/Linux with Git installed.
 
 ```bash
-git clone git@github.com:anyaofastora/cuda-course.git
-cd cuda-course
+git clone https://github.com/anyaofastora/kernel-dev.git
+cd kernel-dev
 ```
 
-Alternatively, authenticate GitHub CLI with `gh auth login`, run `gh auth setup-git`,
-then clone `https://github.com/anyaofastora/cuda-course.git`.
+If you prefer SSH and have GitHub SSH access configured, clone
+`git@github.com:anyaofastora/kernel-dev.git` instead.
 
 ## Check the CUDA environment
 
